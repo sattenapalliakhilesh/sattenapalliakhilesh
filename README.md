@@ -8,9 +8,9 @@
 
 ## 🚀 What I Do
 
-- 🗂️ Program & Portfolio Management — I've run over $10M worth of enterprise programs throughout my career. Messy stakeholders, impossible deadlines, shifting priorities — been there,  sorted it, shipped it.
+- 🗂️ Program & Portfolio Management — I've run over $10M worth of enterprise programs throughout my career. Complex stakeholders, impossible deadlines, shifting priorities — been there, sorted it, shipped it.
 - 🤖 Applied AI Engineering — I build agentic AI pipelines from scratch. Designed a multi-step AI agent using LangChain, Claude Haiku + Sonnet, Serper API, and vector search — where Claude acts as both the search agent and writing agent, with Python enforcing hard business rules in between. Real architecture, real engineering, actually ships.
-- 🎯 Delivery Leadership — 11 years of making sure what gets planned actually gets built. Agile, SAFe, hybrid — I don't really care about the framework, I care about the outcome.
+- 🎯 Delivery Leadership — 11 years of making sure what gets planned actually gets built. Agile, SAFe, hybrid — the framework matters, and picking the right one for the right context is half the battle. The other half is actually delivering.
 
 ---
 
