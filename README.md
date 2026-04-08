@@ -1,6 +1,6 @@
 # Hey, I'm Akhilesh 👋
 
-**Enterprise Program Manager · Applied AI Engineer · Delivery Lead · Scrum Master**
+**Enterprise Program Manager · Delivery Lead · Applied AI Engineer**
 
 📍 Vancouver, Canada
 
@@ -8,9 +8,9 @@
 
 ## 🚀 What I Do
 
-- 🗂️ **Program & Portfolio Management** — Running $15M+ enterprise programs end-to-end, aligning cross-functional teams and turning complex initiatives into measurable business outcomes
-- 🤖 **Applied AI Engineering** — Building intelligent agents, automation pipelines, and LLM-powered tools that actually ship and solve real problems
-- 🎯 **Delivery Leadership** — Bridging strategy and execution across Agile, SAFe, and hybrid frameworks — 11 years, zero half-shipped programs
+- 🗂️ Program & Portfolio Management — I've run over $10M worth of enterprise programs throughout my career. Messy stakeholders, impossible deadlines, shifting priorities — been there,  sorted it, shipped it.
+- 🤖 Applied AI Engineering — I build agentic AI pipelines from scratch. Designed a multi-step AI agent using LangChain, Claude Haiku + Sonnet, Serper API, and vector search — where Claude acts as both the search agent and writing agent, with Python enforcing hard business rules in between. Real architecture, real engineering, actually ships.
+- 🎯 Delivery Leadership — 11 years of making sure what gets planned actually gets built. Agile, SAFe, hybrid — I don't really care about the framework, I care about the outcome.
 
 ---
 
@@ -51,4 +51,4 @@ Current focus: shipping intelligent tools that make enterprise teams faster and 
 
 ---
 
-*Open to senior program management and applied AI roles across North America.*
+*Open to senior program / delivery management and applied AI roles across North America.*
