@@ -1,6 +1,6 @@
 # Hey, I'm Akhilesh 👋
 
-**Technical Program Manager | Delivery Lead | AI Builder**
+**Technical Program Manager - Delivery Lead - AI Builder**
 
 TPM by trade. AI builder by choice. Based in Vancouver, Canada.
 
