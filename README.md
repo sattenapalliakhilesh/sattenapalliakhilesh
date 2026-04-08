@@ -1,5 +1,7 @@
 # Hey, I'm Akhilesh 👋
 
+![Technical Program Manager](https://img.shields.io/badge/Technical%20Program%20Manager-0A66C2?style=flat&logoColor=white) ![AI Builder](https://img.shields.io/badge/AI%20Builder-D97757?style=flat&logoColor=white)
+
 TPM by trade. AI builder by choice. Based in Vancouver, Canada.
 
 11+ years running high-stakes enterprise programs across insurance, retail, fintech, and logistics. Lately I've been going deeper — designing and building agentic AI pipelines from the ground up, not just managing the teams that do.
@@ -16,7 +18,14 @@ TPM by trade. AI builder by choice. Based in Vancouver, Canada.
 
 ## 🛠 Stack
 
-`Python` &nbsp; `LangChain` &nbsp; `Claude API` &nbsp; `Flask` &nbsp; `RAG` &nbsp; `Vector DB` &nbsp; `Serper API` &nbsp; `Azure` &nbsp; `Jira`
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)&nbsp;
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://langchain.com)&nbsp;
+[![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com)&nbsp;
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com)&nbsp;
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com)&nbsp;
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)&nbsp;
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
 
 ---
 
@@ -33,4 +42,4 @@ TPM by trade. AI builder by choice. Based in Vancouver, Canada.
 
 ---
 
-*Open to senior program management and applied AI roles across North America.*
+💼 Open to remote roles in Canada / EU / USA — Technical Program Manager / Delivery Lead
