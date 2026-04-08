@@ -1,6 +1,6 @@
 # Hey, I'm Akhilesh 👋
 
-![Technical Program Manager](https://img.shields.io/badge/Technical%20Program%20Manager-0A66C2?style=flat&logoColor=white) ![AI Builder](https://img.shields.io/badge/AI%20Builder-D97757?style=flat&logoColor=white)
+![Technical Program Manager](https://img.shields.io/badge/Technical%20Program%20Manager-0A66C2?style=flat&logoColor=white)&nbsp;![AI Builder](https://img.shields.io/badge/AI%20Builder-D97757?style=flat&logoColor=white)&nbsp;![Delivery Lead](https://img.shields.io/badge/Delivery%20Lead-2D8653?style=flat&logoColor=white)
 
 TPM by trade. AI builder by choice. Based in Vancouver, Canada.
 
